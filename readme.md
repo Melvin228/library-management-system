@@ -14,13 +14,13 @@ git clone --recursive https://github.com/your-username/library-management-system
 git submodule update --init --recursive
 ```
 
-### ** 🔹 🔄 Pull Latest Changes from Main Repo & Submodules
+### **🔹 🔄 Pull Latest Changes from Main Repo & Submodules**
 ```sh
 git pull --recurse-submodules
 git submodule update --remote --merge
 ```
 
-### ** 🔹 🔄 Add a New Submodule
+### **🔹 🔄 Add a New Submodule**
 ```sh
 git submodule add https://github.com/your-username/user-service.git backend/user-service
 ```
