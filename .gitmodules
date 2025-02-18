@@ -1,3 +1,6 @@
 [submodule "backend/user-service"]
 	path = backend/user-service
 	url = https://github.com/Melvin228/library-user-service.git
+[submodule "backend/gateway"]
+	path = backend/gateway
+	url = https://github.com/Melvin228/library-gateway.git
