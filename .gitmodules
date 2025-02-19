@@ -4,3 +4,6 @@
 [submodule "backend/gateway"]
 	path = backend/gateway
 	url = https://github.com/Melvin228/library-gateway.git
+[submodule "backend/config.server"]
+	path = backend/config.server
+	url = https://github.com/Melvin228/library-config-server.git
