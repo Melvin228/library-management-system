@@ -7,3 +7,6 @@
 [submodule "backend/config.server"]
 	path = backend/config.server
 	url = https://github.com/Melvin228/library-config-server.git
+[submodule "backend/eureka-server"]
+	path = backend/eureka-server
+	url = https://github.com/Melvin228/library-eureka-server.git
